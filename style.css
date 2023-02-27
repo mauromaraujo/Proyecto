@@ -1,0 +1,15 @@
+.seccion1{
+    background-color:gainsboro;
+}
+.seccion2{
+    background-color: thistle;
+}
+.seccion3{
+    background-color: rgb(167, 237, 255);
+}
+h1,h4{
+    font-family: 'Satisfy', cursive;
+    justify-content: center;
+    align-items: left;
+} 
+
